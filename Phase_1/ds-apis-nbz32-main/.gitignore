@@ -133,3 +133,4 @@ dmypy.json
 
 # Mac OSX
 .DS_Store
+.secrets/
